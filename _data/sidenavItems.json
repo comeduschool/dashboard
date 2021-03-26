@@ -21,6 +21,12 @@
         "label": "Analytics",
         "link": "analytics.html",
         "tags": "users, charts, notifications, maps"
+      },
+      {
+        "name": "test",
+        "label": "Test",
+        "link": "test.html",
+        "tags": "users, charts, notifications, maps"
       }
     ]
   }
